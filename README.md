@@ -3,21 +3,24 @@
 
 ![GitHub Logo](Weather_Predictions.jpg)
 
-In this assignment, we are using machine learning to predict the weather forecasts for New York City. 
+In this assignment, Latyr is analyzing the Bikes usage for New York City for the year 2019.
 
 ## Data Source(s)
-
+https://www.citibikenyc.com/system-data
 
 
 ## Methods
 
-## Participants
+* Created a Jupyter notebook to transform data
+* Used the transformed data and uploaded it to Tableau to create final reports.
+
 
 
 ## Website or Links
 https://public.tableau.com/profile/latyr#!/vizhome/TableauHomework_15950296476620/StartEndStationsAnalysis?publish=yes
+
 ## Results
 
-![GitHub Logo](Presentation_1.png)
+![GitHub Logo](02-Analysis\citibike.jpg)
 
 
