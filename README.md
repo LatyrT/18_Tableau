@@ -1,5 +1,8 @@
 # 18_NYC_Citibike_Analytics_Tableau 
 
+<p align="center">
+  <img src="citibike.jpg">
+</p>
 
 ![GitHub Logo](citibike.jpg)
 
@@ -22,6 +25,8 @@ https://public.tableau.com/profile/latyr#!/vizhome/TableauHomework_1595029647662
 ## Results
 
 ![GitHub Logo](Dashboard_1.png)
+
+
 ![GitHub Logo](Dashboard_2.png)
 
 
