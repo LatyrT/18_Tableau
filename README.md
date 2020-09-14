@@ -4,8 +4,6 @@
   <img src="citibike.jpg">
 </p>
 
-![GitHub Logo](citibike.jpg)
-
 In this assignment, Latyr is analyzing the Bikes usage for New York City for the year 2019.
 
 ## Data Source(s)
@@ -21,6 +19,8 @@ https://www.citibikenyc.com/system-data
 
 ## Website or Links
 https://public.tableau.com/profile/latyr#!/vizhome/TableauHomework_15950296476620/StartEndStationsAnalysis?publish=yes
+
+User guide: (02-Analysis\03_Report_&_UserGuide_v0.1.docx)
 
 ## Results
 
