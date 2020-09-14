@@ -1,5 +1,8 @@
 # 18_NYC_Citibike_Analytics_Tableau 
 
+<p align="center">
+  <img src="citibike.jpg">
+</p>
 
 ![GitHub Logo](citibike.jpg)
 
