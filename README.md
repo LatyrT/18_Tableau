@@ -20,6 +20,8 @@ https://www.citibikenyc.com/system-data
 ## Website or Links
 https://public.tableau.com/profile/latyr#!/vizhome/TableauHomework_15950296476620/StartEndStationsAnalysis?publish=yes
 
+User guide: (02-Analysis\03_Report_&_UserGuide_v0.1.docx)
+
 ## Results
 
 ![GitHub Logo](Dashboard_1.png)
