@@ -1,7 +1,7 @@
 # 18_NYC_Citibike_Analytics_Tableau 
 
 <p align="center">
-  <img src="citibike.jpg">
+  <img src="Gs3jCL2.png">
 </p>
 
 In this assignment, Latyr is analyzing the Bikes usage for New York City for the year 2019.
