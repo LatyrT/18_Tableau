@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="citibike.jpg">
-</p>
+</p> 
 
 In this assignment, Latyr is analyzing the Bikes usage for New York City for the year 2019.
 
